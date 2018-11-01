@@ -1,10 +1,10 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB - ORM
 ===============================================
-Heroku link:
+# Heroku link:
 
 https://jdenton-lab-11.herokuapp.com/
 
-Travis CI:
+# Travis CI:
 
 https://travis-ci.org/sgtbelly/lab-11
 
