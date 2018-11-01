@@ -1,6 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB - ORM
 ===============================================
+Heroku link:
 
+https://jdenton-lab-11.herokuapp.com/
+
+Travis CI:
+
+https://travis-ci.org/sgtbelly/lab-11
 
 ## Before you begin
 * You will be continuing to work on your API server
